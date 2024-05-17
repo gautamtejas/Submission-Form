@@ -1,6 +1,6 @@
-# React + Vite
+# Submission-Form
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A basic submission form is created using React and its properties.
 
 Currently, two official plugins are available:
 
